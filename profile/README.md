@@ -1,27 +1,73 @@
-# Green Auto Club: Ecossistema Digital Vertical para o Setor Automóvel
+# Green Auto Club — Adrenalina em quatro rodas
 
-## 1. Visão Geral
-O **GearHead** é uma infraestrutura social de nicho, desenvolvida para a curadoria e agregação de ativos digitais do setor automóvel. Através de protocolos de governação baseados em visão computacional, a plataforma assegura um ambiente de "High-Signal", eliminando redundâncias e conteúdos não conformes com a vertical de negócio.
+Bem-vindo ao **Green Auto Club**, uma plataforma social dedicada exclusivamente a veículos. Aqui, nada de selfies, pratos gourmet ou frases motivacionais duvidosas — apenas carros. 🏎️🔥
 
-## 2. Pilares Estratégicos
-* **Validação de Ativos via IA:** Implementação de redes neuronais para a filtragem em tempo real de conteúdos, garantindo que a base de dados contenha exclusivamente registos de veículos.
-* **Arquitetura "Digital Garage":** Substituição do perfil de utilizador convencional por um sistema de gestão de portfólio de ativos, permitindo a catalogação técnica e o rastreio de modificações.
-* **Indexação de Componentes:** Sistema avançado de metadados para identificação de peças aftermarket e especificações de performance integradas nos ficheiros de media.
-* **Ecossistema Comercial de Precisão:** Marketplace integrado e otimizado para a transação de veículos de alta performance e componentes especializados.
+---
 
-## 3. Especificações da Arquitetura
-A stack tecnológica foi selecionada para garantir escalabilidade horizontal e segurança de dados sob demanda:
+## 📌 Visão Geral
 
-| Camada | Tecnologia | Objetivo Operacional |
-| :--- | :--- | :--- |
-| **Interface** | React Native / TypeScript | Experiência de utilizador fluida com integridade de tipos em ambiente mobile. |
-| **Backend** | Node.js (Microserviços) | Arquitetura distribuída para gestão de fluxos de dados de elevada concorrência. |
-| **Persistência** | PostgreSQL | Armazenamento relacional de alta fidelidade para metadados de ativos. |
-| **IA/Moderação** | TensorFlow / Rekognition | Protocolo de conformidade visual para higienização automatizada do ecossistema. |
-| **Cloud Infrastructure** | AWS Ecosystem | Entrega global de ativos de alta resolução com redundância e baixa latência. |
+O **Green Auto Club** é uma aplicação mobile inspirada no conceito de redes sociais visuais, porém com uma regra simples e sagrada:
 
-## 4. Governação e Compliance
-Este ecossistema opera sob políticas estritas de exclusividade de conteúdo. A integridade da plataforma é mantida por auditorias algorítmicas constantes, assegurando que o posicionamento de marca permaneça inalterado e livre de ruído externo.
+> 🚫 Apenas carros podem ser postados.
 
-## 5. Propriedade Intelectual
-Este software e a sua arquitetura são ativos proprietários protegidos. O acesso, distribuição ou engenharia reversa de qualquer componente deste framework sem autorização expressa é estritamente proibido. Todos os direitos reservados à Green Auto Club.
+Qualquer conteúdo fora desse escopo é automaticamente moderado.
+
+---
+
+## ⚙️ Arquitetura do Sistema
+
+| Camada                   | Tecnologia                | Objetivo Operacional                                                            |
+| ------------------------ | ------------------------- | ------------------------------------------------------------------------------- |
+| **Interface**            | React Native / TypeScript | Experiência de utilizador fluida com integridade de tipos em ambiente mobile.   |
+| **Backend**              | Node.js (Microserviços)   | Arquitetura distribuída para gestão de fluxos de dados de elevada concorrência. |
+| **Persistência**         | PostgreSQL                | Armazenamento relacional de alta fidelidade para metadados de ativos.           |
+| **IA/Moderação**         | TensorFlow / Rekognition  | Protocolo de conformidade visual para higienização automatizada do ecossistema. |
+| **Cloud Infrastructure** | AWS Ecosystem             | Entrega global de ativos de alta resolução com redundância e baixa latência.    |
+
+---
+
+## 🚀 Funcionalidades
+
+* 📸 Upload de imagens
+* ❤️ Sistema de curtidas e comentários
+* 🔎 Exploração por categorias (supercarros, clássicos, tunados, etc.)
+* 👤 Perfis de utilizador personalizados
+
+---
+
+## 🧠 Moderação Inteligente
+
+Utilizamos modelos de visão computacional para garantir que:
+
+* ✅ O conteúdo contém veículos
+* ❌ Conteúdo irrelevante é bloqueado automaticamente
+* ⚠️ Conteúdos suspeitos são revisados
+
+---
+
+## 🌍 Futuro do Projeto
+
+* 🎥 Suporte avançado para vídeos
+* 🤖 Recomendações baseadas em IA
+* 🏁 Integração com eventos automotivos
+* 🛒 Marketplace de veículos
+
+---
+
+## 🤝 Contribuição
+
+Contribuições são bem-vindas para evoluir a plataforma.
+
+---
+
+## 📄 Licença
+
+Este projeto está sob a licença MIT.
+
+---
+
+## 💭 Considerações Finais
+
+Se você gosta de carros, aqui é o seu lugar.
+
+🚗💨
