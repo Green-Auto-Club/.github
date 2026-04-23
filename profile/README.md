@@ -1,4 +1,4 @@
-# GearHead: Ecossistema Digital Vertical para o Setor Automóvel
+# Green Auto Club: Ecossistema Digital Vertical para o Setor Automóvel
 
 ## 1. Visão Geral
 O **GearHead** é uma infraestrutura social de nicho, desenvolvida para a curadoria e agregação de ativos digitais do setor automóvel. Através de protocolos de governação baseados em visão computacional, a plataforma assegura um ambiente de "High-Signal", eliminando redundâncias e conteúdos não conformes com a vertical de negócio.
