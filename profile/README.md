@@ -51,23 +51,3 @@ Utilizamos modelos de visão computacional para garantir que:
 * 🤖 Recomendações baseadas em IA
 * 🏁 Integração com eventos automotivos
 * 🛒 Marketplace de veículos
-
----
-
-## 🤝 Contribuição
-
-Contribuições são bem-vindas para evoluir a plataforma.
-
----
-
-## 📄 Licença
-
-Este projeto está sob a licença MIT.
-
----
-
-## 💭 Considerações Finais
-
-Se você gosta de carros, aqui é o seu lugar.
-
-🚗💨
